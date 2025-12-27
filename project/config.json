@@ -1,0 +1,17 @@
+module.exports = {
+  CHANNEL_ID: "1336317405730701312",
+  INTERVAL: 16000,
+  WORDS: ["oh", "ob"],
+  WW: "1299386568712392765",
+  OREP_TARGET_ID: "408785106942164992",
+  WEBHOOK_URL: "WEBHOOK_URL_HERE",
+
+  TEXT_FILES: [
+    "text1.txt",
+    "text2.txt",
+    "text3.txt",
+    "text4.txt",
+    "text5.txt"
+  ],
+  TEXT_INTERVAL: 4000
+};
